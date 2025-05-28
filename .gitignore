@@ -10,3 +10,4 @@ terraform/student-list/.terraform/
 
 # Vagrant file
 .vagrant
+.env
